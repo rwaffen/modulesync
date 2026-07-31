@@ -2,9 +2,17 @@
 
 All notable changes to this project will be documented in this file.
 
-## [4.5.0](https://github.com/voxpupuli/modulesync/tree/4.5.0) (2026-07-15)
+## [4.6.0](https://github.com/voxpupuli/modulesync/tree/4.6.0) (2026-07-31)
 
-[Full Changelog](https://github.com/voxpupuli/modulesync/compare/v4.4.0...4.5.0)
+[Full Changelog](https://github.com/voxpupuli/modulesync/compare/v4.5.0...4.6.0)
+
+**Implemented enhancements:**
+
+- feat: add support for cryptographic signing and signoff options in commits and tags [\#368](https://github.com/voxpupuli/modulesync/pull/368) ([rwaffen](https://github.com/rwaffen))
+
+## [v4.5.0](https://github.com/voxpupuli/modulesync/tree/v4.5.0) (2026-07-15)
+
+[Full Changelog](https://github.com/voxpupuli/modulesync/compare/v4.4.0...v4.5.0)
 
 **Implemented enhancements:**
 
